@@ -11,6 +11,5 @@ export default {
     hmr: {
       port: 443,
     }
-  },
-  base: '/hello-web3-ui/'
+  }
 }
